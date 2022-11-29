@@ -1,7 +1,8 @@
-# PPE DETECTION
-PPE detection using YOLOv5
+# PPE DETECTION USING YOLOv5
+
 
 # Overview
+Personal protective equipment, commonly referred to as "PPE", is equipment worn to minimize exposure to hazards that cause serious workplace injuries and illnesses. These injuries and illnesses may result from contact with chemical, radiological, physical, electrical, mechanical, or other workplace hazards.
 PPE detection is an emerging solution for the managers as it automates the tracking and monitoring of PPE equipment wear-ability.
 
 
